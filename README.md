@@ -45,7 +45,7 @@ The music does not aim to change anyone, but to hold space—allowing each liste
 
 ## 🎧 The Pieces
 
-### Track 1: Healing Clarity — *Dedicated to You*
+### Track 1: Healing Clarity — *Dedicated to Natalie*
 A piece for mental clarity and inner grounding.
 Minimal, spacious, and reflective, this track supports moments of focus, decision-making, or quiet introspection. It offers a calm sonic environment where thoughts can settle naturally, without pressure or urgency.
 
