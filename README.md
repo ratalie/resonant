@@ -10,7 +10,18 @@ A personal healing music project
 
 Each piece is an instrumental, loopable composition designed to support emotional regulation, calm, and inner alignment. This project was not created for performance or commercial purpose, but as a gesture of well-being—music written for specific people, reflecting their energy, their rhythm, and what they may need in moments of rest, transition, or grounding.
 
-All tracks are tuned to **432 Hz** and intentionally minimal, allowing space, silence, and resonance to do the work. Each piece can be listened to once or looped indefinitely, becoming part of a personal ritual rather than a linear album.
+### About the Frequencies
+
+Originally, each track was composed with its own specific resonant frequency, chosen to support its unique intention:
+- **Track 1 (Clarity)**: 432 Hz — base resonance, mental clarity
+- **Track 2 (Containment)**: 528 Hz — emotional repair, softness
+- **Track 3 (Balance)**: 396 Hz — grounding, release of tension
+- **Track 4 (Depth)**: 639 Hz — inner connection, openness
+- **Track 5 (Activation)**: 417 Hz — movement, gentle activation
+
+However, all tracks are also available tuned to **432 Hz** — a universal frequency often associated with calm and natural resonance. This allows the pieces to be listened to together as a cohesive collection, or mixed freely without dissonance, making them more accessible for playlists, meditation sessions, or extended listening.
+
+All tracks are intentionally minimal, allowing space, silence, and resonance to do the work. Each piece can be listened to once or looped indefinitely, becoming part of a personal ritual rather than a linear album.
 
 At its core, Resonant Bonds is about connection:
 > *music as care, music as listening, music as a quiet way of saying "I see you."*
@@ -56,90 +67,18 @@ Light and open, this track encourages clarity and readiness without pressure. It
 
 ---
 
-## 📊 Project Guide
+## 🎵 How to Listen
 
-| Track | Title | Dedicated To | Core Intention | Tempo | Key | Frequency |
-|-------|-------|--------------|----------------|-------|-----|-----------|
-| 1 | Healing Clarity | Tú | Clarity & grounding | 60 BPM | D Major | 432 Hz |
-| 2 | Healing Containment | Amabel | Emotional safety | 56 BPM | F♯ Minor | 432 Hz |
-| 3 | Healing Balance | Danilo | Regulation & flow | 88 BPM | G | 432 Hz |
-| 4 | Healing Depth | Cristina | Introspection | 52 BPM | E Minor | 432 Hz |
-| 5 | Healing Activation | Jessica | Gentle motivation | 96 BPM | C Major | 432 Hz |
+These pieces are designed to be looped. You can listen to one track once, or let it play softly in the background for as long as you need.
 
----
+There's no right or wrong way to engage with this music.
+You might:
+- Listen while working or studying
+- Use it as a background for meditation or rest
+- Let it play during transitions—waking up, winding down, or between tasks
+- Return to the same piece daily, or explore different tracks depending on what you need
 
-## 📁 Nomenclatura de Archivos
-
-| Track | Persona | Archivo |
-|-------|---------|---------|
-| Track 1 | Tú | `N_Healing_Clarity_Track1.musicxml` |
-| Track 2 | Amabel | `N_Healing_Containment_Track2.musicxml` |
-| Track 3 | Danilo | `N_Healing_Balance_Track3.musicxml` |
-| Track 4 | Cristina | `N_Healing_Depth_Track4.musicxml` |
-| Track 5 | Jessica | `N_Healing_Activation_Track5.musicxml` |
-
----
-
-## 📂 Estructura del Proyecto
-
-```
-resonant/
-├── scores/      → Partituras (MuseScore, MusicXML)
-├── midi/        → Archivos MIDI exportados
-├── audio/       → Renders de audio (mp3, wav)
-├── videos/      → Videos finales para YouTube
-├── scripts/     → Scripts de automatización
-└── drafts/      → Borradores y experimentos
-```
-
----
-
-## ✅ Checklist de Producción
-
-### Fase 1: Conversión a MIDI
-- [x] Track 1: Healing Clarity → MIDI ✓
-- [ ] Track 2: Healing Containment → MIDI
-- [ ] Track 3: Healing Balance → MIDI
-- [ ] Track 4: Healing Depth → MIDI
-- [ ] Track 5: Healing Activation → MIDI
-
-### Fase 2: Render de Audio (con loop extendido)
-- [ ] Track 1: Healing Clarity → Audio (loop ~30-60 min)
-- [ ] Track 2: Healing Containment → Audio
-- [ ] Track 3: Healing Balance → Audio
-- [ ] Track 4: Healing Depth → Audio
-- [ ] Track 5: Healing Activation → Audio
-
-### Fase 3: Creación de Videos
-- [ ] Seleccionar/crear visuales del espacio (imágenes o video ambient)
-- [ ] Track 1: Video con audio en loop
-- [ ] Track 2: Video con audio en loop
-- [ ] Track 3: Video con audio en loop
-- [ ] Track 4: Video con audio en loop
-- [ ] Track 5: Video con audio en loop
-
-### Fase 4: Subir a YouTube
-- [ ] Crear playlist "Resonant Bonds"
-- [ ] Subir Track 1: Healing Clarity
-- [ ] Subir Track 2: Healing Containment
-- [ ] Subir Track 3: Healing Balance
-- [ ] Subir Track 4: Healing Depth
-- [ ] Subir Track 5: Healing Activation
-- [ ] Agregar descripciones con dedicatorias
-- [ ] Configurar como "No listado" o "Público" según preferencia
-
----
-
-## 🛠️ Herramientas Sugeridas
-
-| Tarea | Herramienta |
-|-------|-------------|
-| Edición de partituras | MuseScore |
-| Conversión MusicXML → MIDI | MuseScore / Python (music21) |
-| Render MIDI → Audio | DAW (Reaper, FL Studio) o SoundFonts |
-| Loop de audio | Audacity / FFmpeg |
-| Creación de video | FFmpeg / DaVinci Resolve |
-| Subida a YouTube | YouTube Studio |
+Each piece is intentionally short (1-2 minutes) so it can repeat without becoming intrusive. The silence between notes is just as important as the sound itself.
 
 ---
 
