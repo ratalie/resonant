@@ -94,4 +94,117 @@ a moment of calm, a pause, a reminder that care can be quiet.
 
 ---
 
+## 📖 Appendix: Musical Notation
+
+For those interested in the musical structure, here are the note sequences for each piece.
+
+### Track 1: Healing Clarity
+**Key**: D Major | **Tempo**: 60 BPM | **Time**: 4/4
+
+```
+Measure 1:  D4  (whole note)
+Measure 2:  —   (rest)
+Measure 3:  F♯4 (whole note)
+Measure 4:  —   (rest)
+Measure 5:  A4  (whole note)
+Measure 6:  —   (rest)
+Measure 7:  D5  (whole note)
+Measure 8:  —   (rest)
+```
+
+*Dynamics: p (piano - soft)*
+*Instruction: Repeat freely. Let each note fully decay.*
+
+---
+
+### Track 2: Healing Containment
+**Key**: F♯ Minor | **Tempo**: 56 BPM | **Time**: 4/4
+
+```
+Measure 1:  F♯3 (whole note)
+Measure 2:  —   (rest)
+Measure 3:  A3  (whole note)
+Measure 4:  —   (rest)
+Measure 5:  E4  (whole note)
+Measure 6:  —   (rest)
+Measure 7:  C♯4 (whole note)
+Measure 8:  —   (rest)
+Measure 9:  F♯3 (whole note)
+Measure 10: —   (rest)
+Measure 11: A3  (whole note)
+Measure 12: —   (rest)
+```
+
+*Dynamics: p (piano - soft)*
+*Character: Gentle, embracing, slow-breathing*
+
+---
+
+### Track 3: Healing Balance
+**Key**: G (Aegean / minor feel) | **Tempo**: 88 BPM | **Time**: 4/4
+
+```
+Measure 1: G3  (whole note)
+Measure 2: —   (rest)
+Measure 3: D4  (whole note)
+Measure 4: —   (rest)
+Measure 5: A3  (whole note)
+Measure 6: —   (rest)
+Measure 7: G3  (whole note)
+Measure 8: —   (rest)
+```
+
+*Dynamics: p (piano - soft)*
+*Character: Calm pulse, centered flow*
+
+---
+
+### Track 4: Healing Depth
+**Key**: E Minor | **Tempo**: 52 BPM | **Time**: 4/4
+
+```
+Measure 1:  E3  (whole note)
+Measure 2:  —   (rest)
+Measure 3:  —   (rest)
+Measure 4:  G3  (whole note)
+Measure 5:  —   (rest)
+Measure 6:  —   (rest)
+Measure 7:  B3  (whole note)
+Measure 8:  —   (rest)
+Measure 9:  —   (rest)
+Measure 10: —   (rest)
+Measure 11: E3  (whole note)
+Measure 12: —   (rest)
+```
+
+*Dynamics: p (piano - soft)*
+*Character: Deep, very spacious, meditative*
+
+---
+
+### Track 5: Healing Activation
+**Key**: C Major | **Tempo**: 96 BPM | **Time**: 4/4
+
+```
+Measure 1: C4  (whole note)
+Measure 2: —   (rest)
+Measure 3: E4  (whole note)
+Measure 4: —   (rest)
+Measure 5: G4  (whole note)
+Measure 6: —   (rest)
+Measure 7: A4  (whole note)
+Measure 8: —   (rest)
+```
+
+*Dynamics: p (piano - soft)*
+*Character: Light, open, quietly uplifting*
+
+---
+
+## 📚 Additional Documentation
+
+For technical production details, see [PRODUCTION.md](PRODUCTION.md)
+
+---
+
 *Con amor y presencia* 🌿
