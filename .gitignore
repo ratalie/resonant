@@ -1,0 +1,18 @@
+# Archivos temporales de MuseScore
+*.mscz,
+*.mscz~
+*~
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos grandes de audio (opcional, descomenta si no quieres trackearlos)
+# *.wav
+# *.mp3
+# *.flac
+
+# Python
+__pycache__/
+*.pyc
+.venv/
